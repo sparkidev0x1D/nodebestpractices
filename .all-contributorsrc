@@ -1496,6 +1496,114 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "erezLieberman",
+      "name": "Erez Lieberman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3277260?v=4",
+      "profile": "https://www.linkedin.com/in/erez-lieberman-b90b7219/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "breno404",
+      "name": "Breno Macedo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48841329?v=4",
+      "profile": "https://www.linkedin.com/in/breno-macedo-ernani-de-s%C3%A1-110223158/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "JFernando122",
+      "name": "Fernando Flores",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40414805?v=4",
+      "profile": "https://github.com/JFernando122",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "rafaelconcept",
+      "name": "Rafael Brito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43880669?v=4",
+      "profile": "https://www.linkedin.com/in/rafaelconcept/",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "emiperalta",
+      "name": "Emiliano Peralta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63617637?v=4",
+      "profile": "https://emiliano-peralta-portfolio.vercel.app/",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "lannex",
+      "name": "Shin, SJ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7369541?v=4",
+      "profile": "https://lannex.github.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "e-e-e",
+      "name": "Benjamin Forster",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12589522?v=4",
+      "profile": "http://www.benjaminforster.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "DanieleFedeli",
+      "name": "Daniele Fedeli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37077048?v=4",
+      "profile": "https://github.com/DanieleFedeli",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "djob195",
+      "name": "djob195",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17146669?v=4",
+      "profile": "https://github.com/djob195",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "antspk",
+      "name": "antspk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78955792?v=4",
+      "profile": "https://github.com/antspk",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jjy821",
+      "name": "정진영",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88075341?v=4",
+      "profile": "https://jjy0821.tistory.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "kkk-cashwalk",
+      "name": "kkk-cashwalk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91455122?v=4",
+      "profile": "https://github.com/kkk-cashwalk",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "nodebestpractices",
