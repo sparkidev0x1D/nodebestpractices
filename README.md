@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/⚙%20Item%20count%20-%20102%20Best%20Practices-blue.svg" alt="102 items"/> <img id="last-update-badge" src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20update%20-%20April%2007%2C%202022-green.svg" alt="Last update: April 07, 2022" /> <img src="https://img.shields.io/badge/ %E2%9C%94%20Updated%20For%20Version%20-%20Node%2014.0.0-brightgreen.svg" alt="Updated for Node 14.0.0"/>
+  <img src="https://img.shields.io/badge/⚙%20Item%20count%20-%20102%20Best%20Practices-blue.svg" alt="102 items"/> <img id="last-update-badge" src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20update%20-%20May%2026%2C%202022-green.svg" alt="Last update: May 26, 2022" /> <img src="https://img.shields.io/badge/ %E2%9C%94%20Updated%20For%20Version%20-%20Node%2014.0.0-brightgreen.svg" alt="Updated for Node 14.0.0"/>
 </div>
 
 <br/>
@@ -29,7 +29,7 @@ Read in a different language: [![CN](./assets/flags/CN.png)**CN**](./README.chin
 
 - **✨ 75,000 stars**: Blushing, surprised and proud!
 
-- **🔖 New menu and tags**: Our menu is collapsible now and include `#tags`. New visitors can read `#strategic` items first. Returning visitors can focus on `#new` content. Seniors can filter for `#advanced` items. Courtesy of the one and only [Rubek Joshi](https://github.com/rubek-joshi)
+- **🔖 New menu and tags**: Our menu is collapsible now and includes `#tags`. New visitors can read `#strategic` items first. Returning visitors can focus on `#new` content. Seniors can filter for `#advanced` items. Courtesy of the one and only [Rubek Joshi](https://github.com/rubek-joshi)
 
 - **👨‍👩‍👧‍👦 New family member!**: A new repository joins our family - [Node.js Integration Tests Best Practices ✨](https://github.com/testjavascript/nodejs-integration-tests-best-practices). It includes 40+ best practices for writing awesome and performant Node.js component tests
 
@@ -1489,34 +1489,6 @@ Independent Node.js consultant who works with customers in the USA, Europe, and 
 
 <br/>
 
-<img align="left" width="100" height="100" src="assets/images/members/bruno.png"/>
-
-[Bruno Scheufler](https://github.com/BrunoScheufler)
-<a href="https://brunoscheufler.com/"><img src="assets/images/web.svg" width="16" height="16"></img></a>
-
-💻 full-stack web engineer, Node.js & GraphQL enthusiast
-
-<br/>
-
-<img align="left" width="100" height="100" src="assets/images/members/kyle.png"/>
-
-[Kyle Martin](https://github.com/js-kyle)
-<a href="https://twitter.com/kylemartin_93"><img src="assets/images/twitter.svg" width="16" height="16"></img></a>
-<a href="https://www.linkedin.com/in/kylemartinnz"><img src="assets/images/linkedin.svg" width="16" height="16"></img></a>
-
-Full Stack Developer & Site Reliability Engineer based in New Zealand, interested in web application security, and architecting and building Node.js applications to perform at global scale.
-
-<br/>
-
-<img align="left" width="100" height="100" src="assets/images/members/kevyn.png"/>
-
-[Kevyn Bruyere](https://github.com/kevynb)
-<a href="https://www.linkedin.com/in/kevynbruyere/"><img src="assets/images/linkedin.svg" width="16" height="16"></img></a>
-
-Independent full-stack developer with a taste for Ops and automation.
-
-<br/>
-
 <a id="josh-hemphill" href="https://github.com/josh-hemphill" target="_blank"><img src="assets/images/members/josh-hemphill.png" align="left" width="100" height="100" alt="Josh Hemphill" loading="lazy"/></a>
 
 [Josh Hemphill](https://github.com/josh-hemphill)
@@ -1538,36 +1510,6 @@ Full Stack Developer who knows how to exit from Vim and loves Architecture, Virt
 
 <br/>
 
-### Steering Committee Emeriti
-
-<img align="left" width="100" height="100" src="assets/images/members/sagir.png"/>
-
-[Sagir Khan](https://github.com/sagirk)
-<a href="https://twitter.com/sagir_k"><img src="assets/images/twitter.svg" width="16" height="16"></img></a>
-<a href="https://linkedin.com/in/sagirk"><img src="assets/images/linkedin.svg" width="16" height="16"></img></a>
-<a href="https://sagirk.com"><img src="assets/images/web.svg" width="16" height="16"></img></a>
-
-Deep specialist in JavaScript and its ecosystem — React, Node.js, TypeScript, GraphQL, MongoDB, pretty much anything that involves JS/JSON in any layer of the system — building products using the web platform for the world’s most recognized brands. Individual Member of the Node.js Foundation.
-
-<br/>
-
-## Collaborators
-
-Thank you to all our collaborators! 🙏
-
-Our collaborators are members who are contributing to the repository on a regular basis, through suggesting new best practices, triaging issues, reviewing pull requests and more. If you are interested in helping us guide thousands of people to craft better Node.js applications, please read our [contributor guidelines](./.operations/CONTRIBUTING.md) 🎉
-
-| <a href="https://github.com/idori" target="_blank"><img src="assets/images/members/ido.png" width="75" height="75"/></a> | <a href="https://github.com/TheHollidayInn" target="_blank"><img src="assets/images/members/keith.png" width="75" height="75"/></a> |
-| :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
-|                                    [Ido Richter (Founder)](https://github.com/idori)                                     |                                         [Keith Holliday](https://github.com/TheHollidayInn)                                         |
-
-### Collaborator Emeriti
-
-| <a href="https://github.com/refack" target="_blank"><img src="assets/images/members/refael.png" width="50" height="50"/></a> |
-| :--------------------------------------------------------------------------------------------------------------------------: |
-|                                        [Refael Ackermann](https://github.com/refack)                                         |
-
-<br/>
 
 ## Contributing
 
@@ -1820,6 +1762,7 @@ Thanks goes to these wonderful people who have contributed to this repository!
     <td align="center"><a href="https://github.com/EverythingAvailable"><img src="https://avatars.githubusercontent.com/u/81002379?v=4" width="100px;" alt="sangwonlee"style="max-width:100px;min-width:100px;" /><br /><sub style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;"><b>sangwonlee</b></sub></a><br /><a href="#content-EverythingAvailable" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/euberdeveloper"><img src="https://avatars.githubusercontent.com/u/33126163?v=4" width="100px;" alt="Eugenio Berretta"style="max-width:100px;min-width:100px;" /><br /><sub style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;"><b>Eugenio Berretta</b></sub></a><br /><a href="#content-euberdeveloper" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/soranakk"><img src="https://avatars.githubusercontent.com/u/3930307?v=4" width="100px;" alt="soranakk"style="max-width:100px;min-width:100px;" /><br /><sub style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;"><b>soranakk</b></sub></a><br /><a href="#content-soranakk" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/GuilhermePortella"><img src="https://avatars.githubusercontent.com/u/59876059?v=4" width="100px;" alt="Guilherme Portella "style="max-width:100px;min-width:100px;" /><br /><sub style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;"><b>Guilherme Portella </b></sub></a><br /><a href="#content-GuilhermePortella" title="Content">🖋</a></td>
   </tr>
 </table>
 
@@ -1827,3 +1770,44 @@ Thanks goes to these wonderful people who have contributed to this repository!
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+### Steering Committee Emeriti
+
+
+[Bruno Scheufler](https://github.com/BrunoScheufler)
+<a href="https://brunoscheufler.com/"><img src="assets/images/web.svg" width="16" height="16"></img></a>
+
+💻 full-stack web engineer, Node.js & GraphQL enthusiast
+
+<br/>
+
+<img align="left" width="100" height="100" src="assets/images/members/kyle.png"/>
+
+[Kyle Martin](https://github.com/js-kyle)
+<a href="https://twitter.com/kylemartin_93"><img src="assets/images/twitter.svg" width="16" height="16"></img></a>
+<a href="https://www.linkedin.com/in/kylemartinnz"><img src="assets/images/linkedin.svg" width="16" height="16"></img></a>
+
+Full Stack Developer & Site Reliability Engineer based in New Zealand, interested in web application security, and architecting and building Node.js applications to perform at global scale.
+
+<br/>
+
+<img align="left" width="100" height="100" src="assets/images/members/kevyn.png"/>
+
+[Kevyn Bruyere](https://github.com/kevynb)
+<a href="https://www.linkedin.com/in/kevynbruyere/"><img src="assets/images/linkedin.svg" width="16" height="16"></img></a>
+
+Independent full-stack developer with a taste for Ops and automation.
+
+<br/>
+
+
+<img align="left" width="100" height="100" src="assets/images/members/sagir.png"/>
+
+[Sagir Khan](https://github.com/sagirk)
+<a href="https://twitter.com/sagir_k"><img src="assets/images/twitter.svg" width="16" height="16"></img></a>
+<a href="https://linkedin.com/in/sagirk"><img src="assets/images/linkedin.svg" width="16" height="16"></img></a>
+<a href="https://sagirk.com"><img src="assets/images/web.svg" width="16" height="16"></img></a>
+
+Deep specialist in JavaScript and its ecosystem — React, Node.js, TypeScript, GraphQL, MongoDB, pretty much anything that involves JS/JSON in any layer of the system — building products using the web platform for the world’s most recognized brands. Individual Member of the Node.js Foundation.
+
+<br/>
